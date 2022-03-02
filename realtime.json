@@ -1,7 +1,21 @@
 {
-    "week": [3,4,5,6,7],
-    "hour": [8, 11, 17, 18],
-    "include": ["2022-01-01"],
-    "skip": ["2022-01-01"],
-    "halfHourFlag": "pre"
+  "week": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "hour": [
+    8,
+    11,
+    17,
+    18
+  ],
+  "include": [
+  ],
+  "skip": [
+  ],
+  "halfHourFlag": "all",
+  "fistHalfHourFlag": "last"
 }
