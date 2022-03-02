@@ -17,5 +17,6 @@
   "skip": [
   ],
   "halfHourFlag": "all",
-  "fistHalfHourFlag": "last"
+  "fistHalfHourFlag": "last",
+  "stayMax": 570
 }
