@@ -15,6 +15,7 @@
   "include": [
   ],
   "skip": [
+    "2022-03-12"
   ],
   "halfHourFlag": "all",
   "fistHalfHourFlag": "last",
