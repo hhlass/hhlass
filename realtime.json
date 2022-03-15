@@ -17,7 +17,7 @@
   "skip": [
     "2022-03-12"
   ],
-  "halfHourFlag": "all",
+  "halfHourFlag": "pre",
   "fistHalfHourFlag": "last",
   "stayMax": 570
 }
