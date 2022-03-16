@@ -18,6 +18,6 @@
     "2022-03-12"
   ],
   "halfHourFlag": "all",
-  "fistHalfHourFlag": "pre",
+  "fistHalfHourFlag": "last",
   "stayMax": 570
 }
